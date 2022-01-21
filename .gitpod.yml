@@ -4,3 +4,7 @@ image:
 tasks:
   - init: npm i && npm run build:dev
     command: npm run start
+
+vscode:
+  extensions:
+    - "angular.ng-template"
